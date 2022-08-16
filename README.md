@@ -45,11 +45,11 @@
 &nbsp;
 <!-- Email  -->
 <!-- Light Mode -->
-<a href="mailto:info@qimolin.com">
+<a href="mailto:info@qimolin.com/#gh-light-mode-only">
 <img src="https://img.shields.io/badge/Email-3572A5?style=for-the-badge" alt="Send me an email">
 </a>
 <!-- Dark Mode -->
-<a href="mailto:info@qimolin.com">
+<a href="mailto:info@qimolin.com/#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge" alt="Send me an email">
 </a>
 <!-- Dark Mo
