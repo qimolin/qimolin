@@ -17,7 +17,7 @@
 <img height=200 src="https://github-readme-stats-qimolin.vercel.app/api?username=qimolin&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=calm" alt="Qi Mo Lin's Github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 src="https://github-readme-stats-qimolin.vercel.app/api/top-langs/?username=qimolin&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=calm" alt="Qi Mo Lin's Language stats" />
+<img height=200 src="https://github-readme-stats-qimolin.vercel.app/api/top-langs/?username=qimolin&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=calm&hide=CSS" alt="Qi Mo Lin's Language stats" />
 </a>
 </div>
 
