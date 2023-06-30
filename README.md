@@ -4,7 +4,7 @@
 
 👨‍🎓 I recently graduated with a BSc in ICT & Software Engineering
 <br/>
-👨‍💻 I’m currently pursing my premaster in computer science at Technical University of Eindhoven
+👨‍💻 Just finished my premaster in computer science at TU Eindhoven
 <br/>
 🛠️ I'm passionate about solving problems
 <br/>
