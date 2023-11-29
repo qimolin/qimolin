@@ -4,11 +4,11 @@
 
 👨‍🎓 I recently graduated with a BSc in ICT & Software Engineering
 <br/>
-👨‍💻 Just finished my premaster in computer science at TU Eindhoven
+👨‍💻 Studying MSc Computer Science specialized in Software Engineering & Green IT
 <br/>
 🛠️ I'm passionate about solving problems
 <br/>
-🌱 I’m currently getting started in contributing to open source
+🌱 I’m getting started in contributing to open source
 
 <div align="left"> 
 <br/>
